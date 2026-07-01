@@ -329,39 +329,6 @@ Open
 ```
 http://localhost:8081
 ```
-
----
-
-# 📷 Screenshots
-
-## Dashboard
-
-<img src="screenshots/dashboard.png" width="100%">
-
----
-
-## Content Analyzer
-
-<img src="screenshots/analyze.png" width="100%">
-
----
-
-## AI Report
-
-<img src="screenshots/report.png" width="100%">
-
----
-
-## Investigation History
-
-<img src="screenshots/history.png" width="100%">
-
----
-
-## Sentinel Copilot
-
-<img src="screenshots/copilot.png" width="100%">
-
 ---
 
 # 🔍 Example Analysis
