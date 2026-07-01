@@ -11,6 +11,13 @@
 
 ---
 
+<img width="1920" height="1080" alt="Screenshot_2026-07-01_17-47-08" src="https://github.com/user-attachments/assets/98dc71ff-7792-49ee-8ff8-1956fcda707c" />
+<img width="1920" height="1080" alt="Screenshot_2026-07-01_17-47-26" src="https://github.com/user-attachments/assets/a8a902f2-e99f-45e8-a34c-e7b448681c16" />
+<img width="1920" height="1080" alt="Screenshot_2026-07-01_17-47-39" src="https://github.com/user-attachments/assets/3bc89cb1-2f9b-449e-bc04-33dd0f8b661d" />
+<img width="1920" height="1080" alt="Screenshot_2026-07-01_17-47-48" src="https://github.com/user-attachments/assets/99b16aea-c779-4dd6-8817-a47625133c0c" />
+<img width="1920" height="1080" alt="Screenshot_2026-07-01_17-47-59" src="https://github.com/user-attachments/assets/b772e31f-5c2d-47b3-8e9e-024e11455b4c" />
+
+
 # 📌 Overview
 
 Sentinel AI is an AI-powered Social Media Intelligence Platform that helps security researchers, cyber investigators, journalists, and organizations detect malicious social media posts.
