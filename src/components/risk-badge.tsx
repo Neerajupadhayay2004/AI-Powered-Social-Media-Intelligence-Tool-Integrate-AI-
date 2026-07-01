@@ -1,0 +1,23 @@
+import { cn } from "@/lib/utils";
+
+const styles: Record<string, string> = {
+  Low: "bg-background text-foreground border-foreground/30",
+  Medium: "bg-foreground/10 text-foreground border-foreground/50",
+  High: "bg-foreground/70 text-background border-foreground",
+  Critical: "bg-foreground text-background border-foreground",
+};
+
+export function RiskBadge({ level, className }: { level: string; className?: string }) {
+  return (
+    <span
+      className={cn(
+        "inline-flex items-center gap-1.5 rounded-sm border px-2 py-0.5 font-mono text-[11px] font-bold uppercase tracking-widest",
+        styles[level] ?? styles.Low,
+        className,
+      )}
+    >
+      <span className="h-1.5 w-1.5 rounded-full bg-current" />
+      {level}
+    </span>
+  );
+}
